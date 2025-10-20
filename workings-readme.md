@@ -9,9 +9,13 @@ Second Meeting -> on 9th of October w/Prof. Magda, Philipp, Erik and Alexander(c
 
 Notes: 
 Headings -> Text-to-SVG and raster-to-SVG!
+
 Company name: Authentic Style.
+
 Road of thesis: Survey(evaluation of existing SVG generators and raster-to-SVG converters / diff. variations) --> Building a Pipeline! 
+
 One of the main metrics: non-trained model | code-untrained-just run | trained model 
+
 Problems: 
 - up to 7 colors
 - speed
@@ -19,7 +23,9 @@ Problems:
 - no shades, one solid gradient
 - limit of complexity, less shapes, less nodes
 - editability
+
 Cons: Multiple SVGs by single prompt! SVG simplication / SVG-to-SVG! 
+
 Additional: ImageTrace of Illustrator/Canva!
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
