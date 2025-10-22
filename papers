@@ -1,0 +1,37 @@
+ Text-to-SVG / Generative Vector Models
+
+2017 — SketchRNN: A Neural Representation of Sketch Drawings
+2020 — DeepSVG: A Hierarchical Generative Network for Vector Graphics Animation
+2022 — VectorFusion: Diffusion-based Vector Graphics Generation
+2023 — IconShop: Structured Sequence Modeling for SVG Icons
+2024 — SVGDreamer: Diffusion-Driven SVG Generation
+2024 — SVGDreamer++: Advancing Editability and Diversity in Text-Guided SVG Generation
+2024 — Chat2SVG: Vector Graphics Generation with LLMs and Image Diffusion
+2024 — SVGFusion: Scalable Text-to-SVG Generation via Vector Space Diffusion
+2024 — Style Customization of Text-to-Vector Generation with Image Diffusion Priors
+2025 — NeuralSVG: Implicit Neural Representations for Layered Vector Graphics
+2025 — StarVector: Multimodal Text-to-SVG Generation
+2025 — OmniSVG: Unified Text-to-SVG and Image-to-SVG Generation
+2025 — SVGauge: Human-Aligned Evaluation for Vector Graphics
+
+ Raster-to-SVG / Vectorization and Optimization Methods
+
+2020 — DiffVG: Differentiable Vector Graphics Rasterization for Editing and Learning
+2022 — LIVE: Learning Vector Graphics from Raster Images
+2022 — Towards Layer-Wise Image Vectorization (LIVE++)
+2023 — SAMVG: Multi-Stage Image Vectorization using Segment-Anything
+2024 — NIVeL: Neural Intermediate Vector Layering for Raster-to-Vector Conversion
+2024 — Layered Vectorization with Semantic Guidance
+2024 — CRIISL: Convert Rasterized Image Into SVG Layers
+2024 — Segmentation-Guided Layer-Wise Image Vectorization with Gradient Fills
+2024 — Image Vectorization with Depth: Convexified Shape Layers with Depth Ordering
+2024 — Layered Image Vectorization via Semantic Simplification
+2025 — Smooth Vectorization of Complex Images via Hierarchical Decomposition
+
+Surveys, Datasets, and Evaluation
+
+2022 — A Survey of Smooth Vector Graphics: Representation, Creation, Rasterization and Image Vectorization
+2023 — Image Vectorization: A Review
+2023 — Optimize and Reduce: A Top-Down Approach for Image Vectorization
+2024 — SVG-Bench: Benchmark Dataset for Scalable Vector Graphics Generation
+2024 — SVGauge: Evaluation Metric for Vector Quality
