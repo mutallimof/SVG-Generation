@@ -16,7 +16,7 @@ Road of thesis: Survey(evaluation of existing SVG generators and raster-to-SVG c
 
 One of the main metrics: non-trained model | code-untrained-just run | trained model 
 
-Problems: 
+Main requirements: 
 - up to 7 colors
 - speed
 - variation
@@ -31,3 +31,6 @@ Additional: ImageTrace of Illustrator/Canva!
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Third Meeting -> on 16th of October w/Philipp about 20 minutes. 
+
+Additional note: All newer models (SVGDreamer, VectorFusion, NeuralSVG, etc.) → use diffusion models inside to first create a raster image from text, and then vectorize that image into an editable SVG.
+
