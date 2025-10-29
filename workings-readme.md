@@ -12,3 +12,7 @@ Company name: Authentic Style.
 
 Third Meeting -> on 16th of October w/Philipp about 20 minutes. 
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Fourth Meeting -> on 28th of October w/Prof. Magda and Philipp about an hour.  
+
